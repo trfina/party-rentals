@@ -1,0 +1,6 @@
+# Robots.txt file from //www.davidsonrental-old.com
+
+Sitemap: //www.davidsonrental-old.com/sitemap.xml
+
+User-agent: *
+Disallow:
